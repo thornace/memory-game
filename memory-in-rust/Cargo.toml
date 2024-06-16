@@ -1,3 +1,4 @@
+[workspace]
 [package]
 name = "memory-in-rust"
 version = "0.1.0"
